@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./Screenshots/front.png" width="700"/>
+<img src="./Screenshots/JAVASCRIPT_HEADER.png" width="700"/>
 </p>
 
 ## **What is JavaScript ?**
