@@ -1,4 +1,4 @@
-# ***JavaScript and its Use cases***
+# ***JavaScript and its Use cases in some major oraganizations***
 
 
 <p align="center">
