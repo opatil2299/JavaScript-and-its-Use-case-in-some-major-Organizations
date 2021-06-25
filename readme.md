@@ -33,7 +33,7 @@ Every time a web page does more than just sit there and display static informati
 * JavaScript frameworks, like most other frameworks, provide some rules and guidelines. Using these rules and guidelines, any developer can make complex applications faster and more efficiently than if they decided to build from scratch. The rules and guidelines help shape and organize your website or web application too
 
 <p align="center">
-<img src="./Screenshots/fw.jpg" width="600" height="250"/>
+<img src="./Screenshots/top-javascript-frameworks-list.jpg" width="600" height="250"/>
 </p>
 
 ## ***Some of the major Organizations Using JavaScript***
