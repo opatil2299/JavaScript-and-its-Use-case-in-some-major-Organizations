@@ -1,1 +1,0 @@
-# JavaScript-and-its-Use-case-in-some-major-Organizations
